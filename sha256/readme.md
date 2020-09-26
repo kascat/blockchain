@@ -1,6 +1,6 @@
 ## SHA-256
 
-####Detalhes do trabalho:
+#### Detalhes do trabalho:
 
 Gere uma cadeia de 16 blocos com hash sha256, contendo como primeiro bloco a seguinte mensagem:
 
@@ -46,7 +46,7 @@ ada bloco deverá ser escrito em um arquivo “blocos/bloco_N.txt”, onde “N�
 
 O algoritmo deverá ser possuir um método para validar toda a cadeia de blocos, ou seja, ler desde o bloco 1, até o último bloco que existir, e validar as hashes conforme o conteúdo.
 
-####Detalhes para rodar do código:
+#### Detalhes para rodar do código:
 
 - Rode os arquivos estando dentro do diretório `sha256`
 - Para gerar os blocos exexute: `php BlocksGenerator.php`
