@@ -1,10 +1,7 @@
 <?php
 
 /**
- * Created by PhpStorm.
- * User: Fabio
- * Date: 19/09/20
- * Time: 09:15
+ * Class BlocksValidator
  */
 class BlocksValidator
 {
